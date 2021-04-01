@@ -1,3 +1,7 @@
+This repository contains Tensorflow implementation of our research work published in special section of 2019 IEEE 16th India Council International Conference (INDICON) conference. [Ppaer](https://ieeexplore.ieee.org/document/9029001).
+
+Authors: Aashish Rai; Rashmi Karnani; **Vishal Chudasama;** Kishor Upla
+
 # Automated-Attendance-System-using-CNN
 
 An end-to-end face identification and attendance approach using Convolutional Neural Networks (CNN), which processes the CCTV footage or a video of the class and mark the attendance of the entire class simultaneously. One of the main advantages of the proposed solution is its robustness against usual challenges like occlusion (partially visible/covered faces), orientation, alignment and luminescence of the classroom.
